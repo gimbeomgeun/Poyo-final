@@ -1,0 +1,10 @@
+﻿  소스.c
+C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\PoyoPoyo\소스.c(68,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\PoyoPoyo\소스.c(179,29): warning C4098: 'downPoyo': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\PoyoPoyo\소스.c(189,27): warning C4098: 'downPoyo': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다.
+  2 of 24 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  PoyoPoyo.vcxproj -> C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\x64\Release\PoyoPoyo.exe

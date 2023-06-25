@@ -1,0 +1,7 @@
+﻿  소스.c
+C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\PoyoPoyo\소스.c(69,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\PoyoPoyo\소스.c(186,29): warning C4098: 'downPoyo': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\PoyoPoyo\소스.c(196,27): warning C4098: 'downPoyo': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\PoyoPoyo\소스.c(272): warning C4715: 'setColor': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\PoyoPoyo\소스.c(292): warning C4715: 'input': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  PoyoPoyo.vcxproj -> C:\Users\beomgeun\Downloads\Poyo-main\Poyo-main\PoyoPoyo\x64\Debug\PoyoPoyo.exe
